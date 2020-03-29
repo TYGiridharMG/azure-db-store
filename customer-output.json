@@ -1,0 +1,12 @@
+{
+  "HighestParentCustName" : "YANKEE",
+  "SoldToName" : "VAT te-toggle-resync",
+  "IndustrySegmentation" : "BOARDSIZING EMULSION",
+  "MarketSegmentDesc" : "BOARDSIZING EMULSION",
+  "AccountClassification" : "OPTIMISE",
+  "CustomerSegmentDesc" : "Optimise",
+  "SalesSoldToOrderBlocked" : [ false, true, true ],
+  "SalesSoldToDelInd" : [ "active", "inactive", "active" ],
+  "SoldToSalesRepName" : [ "", "" ],
+  "SoldToDelInd" : "active"
+}
